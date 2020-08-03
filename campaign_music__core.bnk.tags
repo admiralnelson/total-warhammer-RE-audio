@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wxHexEditor_XML_TAG>
+  <filename path="F:\Wwise-BNKExtract\campaign_music__core.bnk">
+    <TAG id="0">
+      <start_offset>3</start_offset>
+      <end_offset>0</end_offset>
+      <tag_text>magic</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#1A5700</note_colour>
+    </TAG>
+    <TAG id="1">
+      <start_offset>4</start_offset>
+      <end_offset>7</end_offset>
+      <tag_text>header section length (always 0 included)</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FF0000</note_colour>
+    </TAG>
+    <TAG id="2">
+      <start_offset>8</start_offset>
+      <end_offset>11</end_offset>
+      <tag_text>version soundbank</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FF8040</note_colour>
+    </TAG>
+    <TAG id="3">
+      <start_offset>12</start_offset>
+      <end_offset>15</end_offset>
+      <tag_text>soundbank id</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#008000</note_colour>
+    </TAG>
+    <TAG id="4">
+      <start_offset>16</start_offset>
+      <end_offset>23</end_offset>
+      <tag_text>always 0 </tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#808080</note_colour>
+    </TAG>
+    <TAG id="5">
+      <start_offset>31</start_offset>
+      <end_offset>24</end_offset>
+      <tag_text>unused?
+</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#FF0080</note_colour>
+    </TAG>
+    <TAG id="6">
+      <start_offset>35</start_offset>
+      <end_offset>32</end_offset>
+      <tag_text>hirc section</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#80FF80</note_colour>
+    </TAG>
+    <TAG id="7">
+      <start_offset>36</start_offset>
+      <end_offset>39</end_offset>
+      <tag_text>hirc section length</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#E1F986</note_colour>
+    </TAG>
+    <TAG id="8">
+      <start_offset>40</start_offset>
+      <end_offset>43</end_offset>
+      <tag_text>number of objects</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#80FF80</note_colour>
+    </TAG>
+    <TAG id="9">
+      <start_offset>44</start_offset>
+      <end_offset>44</end_offset>
+      <tag_text>object type</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#095B0D</note_colour>
+    </TAG>
+    <TAG id="10">
+      <start_offset>45</start_offset>
+      <end_offset>48</end_offset>
+      <tag_text>length of object section</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#EE91EE</note_colour>
+    </TAG>
+    <TAG id="11">
+      <start_offset>49</start_offset>
+      <end_offset>178</end_offset>
+      <tag_text>data</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#0C5F4E</note_colour>
+    </TAG>
+    <TAG id="12">
+      <start_offset>49</start_offset>
+      <end_offset>52</end_offset>
+      <tag_text>object id</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#0B5942</note_colour>
+    </TAG>
+    <TAG id="13">
+      <start_offset>52</start_offset>
+      <end_offset>49</end_offset>
+      <tag_text></tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#536D00</note_colour>
+    </TAG>
+    <TAG id="14">
+      <start_offset>179</start_offset>
+      <end_offset>179</end_offset>
+      <tag_text>object type</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#806B00</note_colour>
+    </TAG>
+    <TAG id="15">
+      <start_offset>180</start_offset>
+      <end_offset>183</end_offset>
+      <tag_text>object length</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#8D6B00</note_colour>
+    </TAG>
+    <TAG id="16">
+      <start_offset>184</start_offset>
+      <end_offset>223</end_offset>
+      <tag_text>object id</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#7E6C00</note_colour>
+    </TAG>
+    <TAG id="17">
+      <start_offset>188</start_offset>
+      <end_offset>223</end_offset>
+      <tag_text>data</tag_text>
+      <font_colour>#000000</font_colour>
+      <note_colour>#536D00</note_colour>
+    </TAG>
+  </filename>
+</wxHexEditor_XML_TAG>

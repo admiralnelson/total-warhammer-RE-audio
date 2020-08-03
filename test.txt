@@ -1,0 +1,2019 @@
+Opening file... This may take a while depending on the size.
+size 9012
+stream pos for len 4
+21
+stream pos for string 8
+current pos for id 29
+0 - Battle_Casting_Active LENGTH 21
+current stream pos 33
+stream pos for len 33
+1065353216
+stream pos for subdata id 33
+sub data id 1065353216
+stream pos for len 37
+26
+stream pos for string 41
+current pos for id 67
+0 - Battle_Casting_Active_Slew LENGTH 26
+current stream pos 71
+stream pos for len 71
+1065353216
+stream pos for subdata id 71
+sub data id 1065353216
+stream pos for len 75
+26
+stream pos for string 79
+current pos for id 105
+0 - Battle_Copter_Speed_Engine LENGTH 26
+current stream pos 109
+stream pos for len 109
+1096810496
+stream pos for subdata id 109
+sub data id 1096810496
+stream pos for len 113
+29
+stream pos for string 117
+current pos for id 146
+0 - Battle_Copter_Speed_Propellor LENGTH 29
+current stream pos 150
+stream pos for len 150
+1096810496
+stream pos for subdata id 150
+sub data id 1096810496
+stream pos for len 154
+26
+stream pos for string 158
+current pos for id 184
+0 - Battle_Copter_Stall_Engine LENGTH 26
+current stream pos 188
+stream pos for len 188
+1065353216
+stream pos for subdata id 188
+sub data id 1065353216
+stream pos for len 192
+30
+stream pos for string 196
+current pos for id 226
+0 - Battle_Copter_Stall_Properllor LENGTH 30
+current stream pos 230
+stream pos for len 230
+1065353216
+stream pos for subdata id 230
+sub data id 1065353216
+stream pos for len 234
+31
+stream pos for string 238
+current pos for id 269
+0 - Battle_DoomFlayer_Engine_Attack LENGTH 31
+current stream pos 273
+stream pos for len 273
+1065353216
+stream pos for subdata id 273
+sub data id 1065353216
+stream pos for len 277
+39
+stream pos for string 281
+current pos for id 320
+0 - Battle_DoomFlayer_Engine_Speed_Rotating LENGTH 39
+current stream pos 324
+stream pos for len 324
+1090519040
+stream pos for subdata id 324
+sub data id 1090519040
+stream pos for len 328
+29
+stream pos for string 332
+current pos for id 361
+3225419776 - Battle_DoomWheel_Acceleration LENGTH 29
+current stream pos 365
+stream pos for len 365
+1077936128
+stream pos for subdata id 365
+sub data id 1077936128
+stream pos for len 369
+21
+stream pos for string 373
+current pos for id 394
+0 - Battle_Entity_Doppler LENGTH 21
+current stream pos 398
+stream pos for len 398
+1120403456
+stream pos for subdata id 398
+sub data id 1120403456
+stream pos for len 402
+35
+stream pos for string 406
+current pos for id 441
+0 - Battle_Entity_Focus_Slew_Warmachine LENGTH 35
+current stream pos 445
+stream pos for len 445
+1065353216
+stream pos for subdata id 445
+sub data id 1065353216
+stream pos for len 449
+25
+stream pos for string 453
+current pos for id 478
+3264217088 - Battle_Env_Element_Ducker LENGTH 25
+current stream pos 482
+stream pos for len 482
+0
+stream pos for len 486
+28
+stream pos for string 490
+current pos for id 518
+0 - Battle_Environment_Exclusion LENGTH 28
+current stream pos 522
+stream pos for len 522
+1065353216
+stream pos for subdata id 522
+sub data id 1065353216
+stream pos for len 526
+56
+stream pos for string 530
+current pos for id 586
+0 - Battle_Environment_Lizardmen_Temple_Magic_Beam_Intensity LENGTH 56
+current stream pos 590
+stream pos for len 590
+1065353216
+stream pos for subdata id 590
+sub data id 1065353216
+stream pos for len 594
+22
+stream pos for string 598
+current pos for id 620
+3258974208 - Battle_Explosion_Level LENGTH 22
+current stream pos 624
+stream pos for len 624
+0
+stream pos for len 628
+19
+stream pos for string 632
+current pos for id 651
+0 - Battle_Focus_Entity LENGTH 19
+current stream pos 655
+stream pos for len 655
+1065353216
+stream pos for subdata id 655
+sub data id 1065353216
+stream pos for len 659
+23
+stream pos for string 663
+current pos for id 686
+0 - Battle_Focus_Warmachine LENGTH 23
+current stream pos 690
+stream pos for len 690
+1065353216
+stream pos for subdata id 690
+sub data id 1065353216
+stream pos for len 694
+30
+stream pos for string 698
+current pos for id 728
+3258974208 - Battle_GeneralsSpeeches_Ducker LENGTH 30
+current stream pos 732
+stream pos for len 732
+0
+stream pos for len 736
+20
+stream pos for string 740
+current pos for id 760
+0 - Battle_Group_Azimuth LENGTH 20
+current stream pos 764
+stream pos for len 764
+1127481344
+stream pos for subdata id 764
+sub data id 1127481344
+stream pos for len 768
+25
+stream pos for string 772
+current pos for id 797
+3258974208 - Battle_Group_Charge_Meter LENGTH 25
+current stream pos 801
+stream pos for len 801
+0
+stream pos for len 805
+28
+stream pos for string 809
+current pos for id 837
+0 - Battle_Group_Collision_Speed LENGTH 28
+current stream pos 841
+stream pos for len 841
+1092616192
+stream pos for subdata id 841
+sub data id 1092616192
+stream pos for len 845
+23
+stream pos for string 849
+current pos for id 872
+0 - Battle_Group_Melee_Size LENGTH 23
+current stream pos 876
+stream pos for len 876
+1128792064
+stream pos for subdata id 876
+sub data id 1128792064
+stream pos for len 880
+37
+stream pos for string 884
+current pos for id 921
+3258974208 - Battle_Group_Melee_Vocalisation_Meter LENGTH 37
+current stream pos 925
+stream pos for len 925
+0
+stream pos for len 929
+18
+stream pos for string 933
+current pos for id 951
+3267887104 - Battle_Group_Meter LENGTH 18
+current stream pos 955
+stream pos for len 955
+3245342720
+stream pos for subdata id 955
+sub data id 3245342720
+stream pos for len 959
+41
+stream pos for string 963
+current pos for id 1004
+0 - Battle_Group_Movement_Animated_Hulks_Size LENGTH 41
+current stream pos 1008
+stream pos for len 1008
+1109393408
+stream pos for subdata id 1008
+sub data id 1109393408
+stream pos for len 1012
+45
+stream pos for string 1016
+current pos for id 1061
+0 - Battle_Group_Movement_Beast_Heavy_Medium_Size LENGTH 45
+current stream pos 1065
+stream pos for len 1065
+1103101952
+stream pos for subdata id 1065
+sub data id 1103101952
+stream pos for len 1069
+46
+stream pos for string 1073
+current pos for id 1119
+0 - Battle_Group_Movement_Beast_Heavy_Medium_Speed LENGTH 46
+current stream pos 1123
+stream pos for len 1123
+1094713344
+stream pos for subdata id 1123
+sub data id 1094713344
+stream pos for len 1127
+38
+stream pos for string 1131
+current pos for id 1169
+0 - Battle_Group_Movement_Beast_Heavy_Size LENGTH 38
+current stream pos 1173
+stream pos for len 1173
+1094713344
+stream pos for subdata id 1173
+sub data id 1094713344
+stream pos for len 1177
+39
+stream pos for string 1181
+current pos for id 1220
+0 - Battle_Group_Movement_Beast_Heavy_Speed LENGTH 39
+current stream pos 1224
+stream pos for len 1224
+1094713344
+stream pos for subdata id 1224
+sub data id 1094713344
+stream pos for len 1228
+38
+stream pos for string 1232
+current pos for id 1270
+0 - Battle_Group_Movement_Beast_Light_Size LENGTH 38
+current stream pos 1274
+stream pos for len 1274
+1112014848
+stream pos for subdata id 1274
+sub data id 1112014848
+stream pos for len 1278
+39
+stream pos for string 1282
+current pos for id 1321
+0 - Battle_Group_Movement_Beast_Light_Speed LENGTH 39
+current stream pos 1325
+stream pos for len 1325
+1094713344
+stream pos for subdata id 1325
+sub data id 1094713344
+stream pos for len 1329
+44
+stream pos for string 1333
+current pos for id 1377
+0 - Battle_Group_Movement_Beast_Medium_Claw_Size LENGTH 44
+current stream pos 1381
+stream pos for len 1381
+1114636288
+stream pos for subdata id 1381
+sub data id 1114636288
+stream pos for len 1385
+45
+stream pos for string 1389
+current pos for id 1434
+0 - Battle_Group_Movement_Beast_Medium_Claw_Speed LENGTH 45
+current stream pos 1438
+stream pos for len 1438
+1094713344
+stream pos for subdata id 1438
+sub data id 1094713344
+stream pos for len 1442
+39
+stream pos for string 1446
+current pos for id 1485
+0 - Battle_Group_Movement_Beast_Medium_Size LENGTH 39
+current stream pos 1489
+stream pos for len 1489
+1114636288
+stream pos for subdata id 1489
+sub data id 1114636288
+stream pos for len 1493
+40
+stream pos for string 1497
+current pos for id 1537
+0 - Battle_Group_Movement_Beast_Medium_Speed LENGTH 40
+current stream pos 1541
+stream pos for len 1541
+1094713344
+stream pos for subdata id 1541
+sub data id 1094713344
+stream pos for len 1545
+30
+stream pos for string 1549
+current pos for id 1579
+0 - Battle_Group_Movement_Cohesion LENGTH 30
+current stream pos 1583
+stream pos for len 1583
+1065353216
+stream pos for subdata id 1583
+sub data id 1065353216
+stream pos for len 1587
+36
+stream pos for string 1591
+current pos for id 1627
+0 - Battle_Group_Movement_Cohesion_Human LENGTH 36
+current stream pos 1631
+stream pos for len 1631
+1065353216
+stream pos for subdata id 1631
+sub data id 1065353216
+stream pos for len 1635
+34
+stream pos for string 1639
+current pos for id 1673
+0 - Battle_Group_Movement_Fellbat_Size LENGTH 34
+current stream pos 1677
+stream pos for len 1677
+1119748096
+stream pos for subdata id 1677
+sub data id 1119748096
+stream pos for len 1681
+35
+stream pos for string 1685
+current pos for id 1720
+0 - Battle_Group_Movement_Fellbat_Speed LENGTH 35
+current stream pos 1724
+stream pos for len 1724
+1094713344
+stream pos for subdata id 1724
+sub data id 1094713344
+stream pos for len 1728
+39
+stream pos for string 1732
+current pos for id 1771
+0 - Battle_Group_Movement_Ghost_Horse_Speed LENGTH 39
+current stream pos 1775
+stream pos for len 1775
+1094713344
+stream pos for subdata id 1775
+sub data id 1094713344
+stream pos for len 1779
+32
+stream pos for string 1783
+current pos for id 1815
+0 - Battle_Group_Movement_Ghost_Size LENGTH 32
+current stream pos 1819
+stream pos for len 1819
+1110704128
+stream pos for subdata id 1819
+sub data id 1110704128
+stream pos for len 1823
+33
+stream pos for string 1827
+current pos for id 1860
+0 - Battle_Group_Movement_Ghost_Speed LENGTH 33
+current stream pos 1864
+stream pos for len 1864
+1094713344
+stream pos for subdata id 1864
+sub data id 1094713344
+stream pos for len 1868
+32
+stream pos for string 1872
+current pos for id 1904
+0 - Battle_Group_Movement_Horse_Size LENGTH 32
+current stream pos 1908
+stream pos for len 1908
+1119748096
+stream pos for subdata id 1908
+sub data id 1119748096
+stream pos for len 1912
+33
+stream pos for string 1916
+current pos for id 1949
+0 - Battle_Group_Movement_Horse_Speed LENGTH 33
+current stream pos 1953
+stream pos for len 1953
+1094713344
+stream pos for subdata id 1953
+sub data id 1094713344
+stream pos for len 1957
+35
+stream pos for string 1961
+current pos for id 1996
+0 - Battle_Group_Movement_Humanoid_Size LENGTH 35
+current stream pos 2000
+stream pos for len 2000
+1126170624
+stream pos for subdata id 2000
+sub data id 1126170624
+stream pos for len 2004
+40
+stream pos for string 2008
+current pos for id 2048
+0 - Battle_Group_Movement_Necro_Serpent_Size LENGTH 40
+current stream pos 2052
+stream pos for len 2052
+1114636288
+stream pos for subdata id 2052
+sub data id 1114636288
+stream pos for len 2056
+41
+stream pos for string 2060
+current pos for id 2101
+0 - Battle_Group_Movement_Necro_Serpent_Speed LENGTH 41
+current stream pos 2105
+stream pos for len 2105
+1094713344
+stream pos for subdata id 2105
+sub data id 1094713344
+stream pos for len 2109
+34
+stream pos for string 2113
+current pos for id 2147
+0 - Battle_Group_Movement_Pegasus_Size LENGTH 34
+current stream pos 2151
+stream pos for len 2151
+1103626240
+stream pos for subdata id 2151
+sub data id 1103626240
+stream pos for len 2155
+35
+stream pos for string 2159
+current pos for id 2194
+0 - Battle_Group_Movement_Pegasus_Speed LENGTH 35
+current stream pos 2198
+stream pos for len 2198
+1092616192
+stream pos for subdata id 2198
+sub data id 1092616192
+stream pos for len 2202
+27
+stream pos for string 2206
+current pos for id 2233
+0 - Battle_Group_Movement_Speed LENGTH 27
+current stream pos 2237
+stream pos for len 2237
+1094713344
+stream pos for subdata id 2237
+sub data id 1094713344
+stream pos for len 2241
+40
+stream pos for string 2245
+current pos for id 2285
+0 - Battle_Group_Movement_Speed_Vocalisation LENGTH 40
+current stream pos 2289
+stream pos for len 2289
+1094713344
+stream pos for subdata id 2289
+sub data id 1094713344
+stream pos for len 2293
+38
+stream pos for string 2297
+current pos for id 2335
+0 - Battle_Group_Movement_Steps_Per_Second LENGTH 38
+current stream pos 2339
+stream pos for len 2339
+1082130432
+stream pos for subdata id 2339
+sub data id 1082130432
+stream pos for len 2343
+37
+stream pos for string 2347
+current pos for id 2384
+0 - Battle_Group_Movement_Tree_Small_Size LENGTH 37
+current stream pos 2388
+stream pos for len 2388
+1126170624
+stream pos for subdata id 2388
+sub data id 1126170624
+stream pos for len 2392
+38
+stream pos for string 2396
+current pos for id 2434
+0 - Battle_Group_Movement_Tree_Small_Speed LENGTH 38
+current stream pos 2438
+stream pos for len 2438
+1094713344
+stream pos for subdata id 2438
+sub data id 1094713344
+stream pos for len 2442
+38
+stream pos for string 2446
+current pos for id 2484
+0 - Battle_Group_Movement_Vargheists_Speed LENGTH 38
+current stream pos 2488
+stream pos for len 2488
+1092616192
+stream pos for subdata id 2488
+sub data id 1092616192
+stream pos for len 2492
+23
+stream pos for string 2496
+current pos for id 2519
+3258974208 - Battle_Group_Pain_Meter LENGTH 23
+current stream pos 2523
+stream pos for len 2523
+0
+stream pos for len 2527
+23
+stream pos for string 2531
+current pos for id 2554
+0 - Battle_Group_Projectile LENGTH 23
+current stream pos 2558
+stream pos for len 2558
+1128792064
+stream pos for subdata id 2558
+sub data id 1128792064
+stream pos for len 2562
+32
+stream pos for string 2566
+current pos for id 2598
+0 - Battle_Group_Projectile_Inflight LENGTH 32
+current stream pos 2602
+stream pos for len 2602
+1128792064
+stream pos for subdata id 2602
+sub data id 1128792064
+stream pos for len 2606
+31
+stream pos for string 2610
+current pos for id 2641
+3258974208 - Battle_Group_Ratling_Guns_Meter LENGTH 31
+current stream pos 2645
+stream pos for len 2645
+0
+stream pos for len 2649
+17
+stream pos for string 2653
+current pos for id 2670
+0 - Battle_Group_Size LENGTH 17
+current stream pos 2674
+stream pos for len 2674
+1128792064
+stream pos for subdata id 2674
+sub data id 1128792064
+stream pos for len 2678
+33
+stream pos for string 2682
+current pos for id 2715
+0 - Battle_Group_Size_Blasting_Charge LENGTH 33
+current stream pos 2719
+stream pos for len 2719
+1106247680
+stream pos for subdata id 2719
+sub data id 1106247680
+stream pos for len 2723
+27
+stream pos for string 2727
+current pos for id 2754
+0 - Battle_Group_Size_Collision LENGTH 27
+current stream pos 2758
+stream pos for len 2758
+1128792064
+stream pos for subdata id 2758
+sub data id 1128792064
+stream pos for len 2762
+33
+stream pos for string 2766
+current pos for id 2799
+0 - Battle_Group_Size_Collision_Start LENGTH 33
+current stream pos 2803
+stream pos for len 2803
+1128792064
+stream pos for subdata id 2803
+sub data id 1128792064
+stream pos for len 2807
+32
+stream pos for string 2811
+current pos for id 2843
+0 - Battle_Group_Size_Collision_Stop LENGTH 32
+current stream pos 2847
+stream pos for len 2847
+1128792064
+stream pos for subdata id 2847
+sub data id 1128792064
+stream pos for len 2851
+31
+stream pos for string 2855
+current pos for id 2886
+0 - Battle_Group_Size_Dragon_Breath LENGTH 31
+current stream pos 2890
+stream pos for len 2890
+1082130432
+stream pos for subdata id 2890
+sub data id 1082130432
+stream pos for len 2894
+26
+stream pos for string 2898
+current pos for id 2924
+0 - Battle_Group_Size_Drakegun LENGTH 26
+current stream pos 2928
+stream pos for len 2928
+1128792064
+stream pos for subdata id 2928
+sub data id 1128792064
+stream pos for len 2932
+24
+stream pos for string 2936
+current pos for id 2960
+0 - Battle_Group_Size_Impact LENGTH 24
+current stream pos 2964
+stream pos for len 2964
+1112014848
+stream pos for subdata id 2964
+sub data id 1112014848
+stream pos for len 2968
+29
+stream pos for string 2972
+current pos for id 3001
+0 - Battle_Group_Size_Ratling_Gun LENGTH 29
+current stream pos 3005
+stream pos for len 3005
+1128792064
+stream pos for subdata id 3005
+sub data id 1128792064
+stream pos for len 3009
+36
+stream pos for string 3013
+current pos for id 3049
+0 - Battle_Group_Size_Ratling_Gun_Impact LENGTH 36
+current stream pos 3053
+stream pos for len 3053
+1128792064
+stream pos for subdata id 3053
+sub data id 1128792064
+stream pos for len 3057
+22
+stream pos for string 3061
+current pos for id 3083
+0 - Battle_Group_Size_Slew LENGTH 22
+current stream pos 3087
+stream pos for len 3087
+1128792064
+stream pos for subdata id 3087
+sub data id 1128792064
+stream pos for len 3091
+29
+stream pos for string 3095
+current pos for id 3124
+0 - Battle_Group_Size_Warpfiregun LENGTH 29
+current stream pos 3128
+stream pos for len 3128
+1128792064
+stream pos for subdata id 3128
+sub data id 1128792064
+stream pos for len 3132
+26
+stream pos for string 3136
+current pos for id 3162
+3212836864 - Battle_Group_Split_Panning LENGTH 26
+current stream pos 3166
+stream pos for len 3166
+1065353216
+stream pos for subdata id 3166
+sub data id 1065353216
+stream pos for len 3170
+22
+stream pos for string 3174
+current pos for id 3196
+0 - Battle_Group_Spotlight LENGTH 22
+current stream pos 3200
+stream pos for len 3200
+1065353216
+stream pos for subdata id 3200
+sub data id 1065353216
+stream pos for len 3204
+23
+stream pos for string 3208
+current pos for id 3231
+3258974208 - Battle_Group_VO_Monitor LENGTH 23
+current stream pos 3235
+stream pos for len 3235
+0
+stream pos for len 3239
+34
+stream pos for string 3243
+current pos for id 3277
+0 - Battle_Group_Vocalisation_Cohesion LENGTH 34
+current stream pos 3281
+stream pos for len 3281
+1065353216
+stream pos for subdata id 3281
+sub data id 1065353216
+stream pos for len 3285
+31
+stream pos for string 3289
+current pos for id 3320
+0 - Battle_Group_Vocalisation_Speed LENGTH 31
+current stream pos 3324
+stream pos for len 3324
+1094713344
+stream pos for subdata id 3324
+sub data id 1094713344
+stream pos for len 3328
+30
+stream pos for string 3332
+current pos for id 3362
+3258974208 - Battle_Individual_Meter_Ducker LENGTH 30
+current stream pos 3366
+stream pos for len 3366
+0
+stream pos for len 3370
+23
+stream pos for string 3374
+current pos for id 3397
+1036831949 - Battle_Individual_Scale LENGTH 23
+current stream pos 3401
+stream pos for len 3401
+1073741824
+stream pos for subdata id 3401
+sub data id 1073741824
+stream pos for len 3405
+30
+stream pos for string 3409
+current pos for id 3439
+0 - Battle_Indivudual_Entity_Speed LENGTH 30
+current stream pos 3443
+stream pos for len 3443
+1090519040
+stream pos for subdata id 3443
+sub data id 1090519040
+stream pos for len 3447
+37
+stream pos for string 3451
+current pos for id 3488
+0 - Battle_Magic_Bombardment_Impact_Group LENGTH 37
+current stream pos 3492
+stream pos for len 3492
+1114636288
+stream pos for subdata id 3492
+sub data id 1114636288
+stream pos for len 3496
+21
+stream pos for string 3500
+current pos for id 3521
+0 - Battle_Magic_Cooldown LENGTH 21
+current stream pos 3525
+stream pos for len 3525
+1065353216
+stream pos for subdata id 3525
+sub data id 1065353216
+stream pos for len 3529
+26
+stream pos for string 3533
+current pos for id 3559
+0 - Battle_Magic_Distance_Slew LENGTH 26
+current stream pos 3563
+stream pos for len 3563
+1102577664
+stream pos for subdata id 3563
+sub data id 1102577664
+stream pos for len 3567
+23
+stream pos for string 3571
+current pos for id 3594
+0 - Battle_Magic_Group_Size LENGTH 23
+current stream pos 3598
+stream pos for len 3598
+1128792064
+stream pos for subdata id 3598
+sub data id 1128792064
+stream pos for len 3602
+22
+stream pos for string 3606
+current pos for id 3628
+0 - Battle_Magic_Intensity LENGTH 22
+current stream pos 3632
+stream pos for len 3632
+1120403456
+stream pos for subdata id 3632
+sub data id 1120403456
+stream pos for len 3636
+26
+stream pos for string 3640
+current pos for id 3666
+0 - Battle_Magic_Loop_Modifier LENGTH 26
+current stream pos 3670
+stream pos for len 3670
+1101004800
+stream pos for subdata id 3670
+sub data id 1101004800
+stream pos for len 3674
+37
+stream pos for string 3678
+current pos for id 3715
+1065353216 - Battle_Magic_Seismic_Snare_Pulse_Size LENGTH 37
+current stream pos 3719
+stream pos for len 3719
+1082130432
+stream pos for subdata id 3719
+sub data id 1082130432
+stream pos for len 3723
+30
+stream pos for string 3727
+current pos for id 3757
+0 - Battle_Magic_Summon_Group_Size LENGTH 30
+current stream pos 3761
+stream pos for len 3761
+1128792064
+stream pos for subdata id 3761
+sub data id 1128792064
+stream pos for len 3765
+19
+stream pos for string 3769
+current pos for id 3788
+3258974208 - Battle_Meter_Ducker LENGTH 19
+current stream pos 3792
+stream pos for len 3792
+0
+stream pos for len 3796
+20
+stream pos for string 3800
+current pos for id 3820
+3258974208 - Battle_Music_Monitor LENGTH 20
+current stream pos 3824
+stream pos for len 3824
+0
+stream pos for len 3828
+35
+stream pos for string 3832
+current pos for id 3867
+0 - Battle_Musician_Generic_Distance_80 LENGTH 35
+current stream pos 3871
+stream pos for len 3871
+1117782016
+stream pos for subdata id 3871
+sub data id 1117782016
+stream pos for len 3875
+25
+stream pos for string 3879
+current pos for id 3904
+1061997773 - Battle_Projectile_Doppler LENGTH 25
+current stream pos 3908
+stream pos for len 3908
+1067030938
+stream pos for subdata id 3908
+sub data id 1067030938
+stream pos for len 3912
+30
+stream pos for string 3916
+current pos for id 3946
+0 - Battle_Projectile_First_Person LENGTH 30
+current stream pos 3950
+stream pos for len 3950
+1065353216
+stream pos for subdata id 3950
+sub data id 1065353216
+stream pos for len 3954
+24
+stream pos for string 3958
+current pos for id 3982
+0 - Battle_Projectile_Height LENGTH 24
+current stream pos 3986
+stream pos for len 3986
+1112014848
+stream pos for subdata id 3986
+sub data id 1112014848
+stream pos for len 3990
+23
+stream pos for string 3994
+current pos for id 4017
+0 - Battle_Projectile_Speed LENGTH 23
+current stream pos 4021
+stream pos for len 4021
+1120403456
+stream pos for subdata id 4021
+sub data id 1120403456
+stream pos for len 4025
+34
+stream pos for string 4029
+current pos for id 4063
+0 - Battle_Projectile_Time_Till_Impact LENGTH 34
+current stream pos 4067
+stream pos for len 4067
+1077936128
+stream pos for subdata id 4067
+sub data id 1077936128
+stream pos for len 4071
+21
+stream pos for string 4075
+current pos for id 4096
+0 - Battle_Rain_Intensity LENGTH 21
+current stream pos 4100
+stream pos for len 4100
+1125515264
+stream pos for subdata id 4100
+sub data id 1125515264
+stream pos for len 4104
+46
+stream pos for string 4108
+current pos for id 4154
+3258974208 - Battle_SFX_DoomFlayer_Engine_Incidentals_Meter LENGTH 46
+current stream pos 4158
+stream pos for len 4158
+0
+stream pos for len 4162
+23
+stream pos for string 4166
+current pos for id 4189
+3258974208 - Battle_SFX_Master_Meter LENGTH 23
+current stream pos 4193
+stream pos for len 4193
+0
+stream pos for len 4197
+22
+stream pos for string 4201
+current pos for id 4223
+3263954944 - Battle_Ship_Deck_Level LENGTH 22
+current stream pos 4227
+stream pos for len 4227
+1084227584
+stream pos for subdata id 4227
+sub data id 1084227584
+stream pos for len 4231
+17
+stream pos for string 4235
+current pos for id 4252
+0 - Battle_Ship_Speed LENGTH 17
+current stream pos 4256
+stream pos for len 4256
+1120403456
+stream pos for subdata id 4256
+sub data id 1120403456
+stream pos for len 4260
+27
+stream pos for string 4264
+current pos for id 4291
+0 - Battle_Slann_Platform_Speed LENGTH 27
+current stream pos 4295
+stream pos for len 4295
+1090519040
+stream pos for subdata id 4295
+sub data id 1090519040
+stream pos for len 4299
+33
+stream pos for string 4303
+current pos for id 4336
+3258974208 - Battle_Spell_Ability_Ducker_Level LENGTH 33
+current stream pos 4340
+stream pos for len 4340
+0
+stream pos for len 4344
+37
+stream pos for string 4348
+current pos for id 4385
+3238002688 - Battle_Steam_Tank_Engine_Acceleration LENGTH 37
+current stream pos 4389
+stream pos for len 4389
+1090519040
+stream pos for subdata id 4389
+sub data id 1090519040
+stream pos for len 4393
+39
+stream pos for string 4397
+current pos for id 4436
+0 - Battle_Steam_Tank_Engine_Movement_Speed LENGTH 39
+current stream pos 4440
+stream pos for len 4440
+1096810496
+stream pos for subdata id 4440
+sub data id 1096810496
+stream pos for len 4444
+24
+stream pos for string 4448
+current pos for id 4472
+3259498496 - Battle_Sync_Trigger_Test LENGTH 24
+current stream pos 4476
+stream pos for len 4476
+0
+stream pos for len 4480
+23
+stream pos for string 4484
+current pos for id 4507
+0 - Battle_Targeting_Active LENGTH 23
+current stream pos 4511
+stream pos for len 4511
+1065353216
+stream pos for subdata id 4511
+sub data id 1065353216
+stream pos for len 4515
+22
+stream pos for string 4519
+current pos for id 4541
+3258974208 - Battle_UI_Speech_Delay LENGTH 22
+current stream pos 4545
+stream pos for len 4545
+0
+stream pos for len 4549
+25
+stream pos for string 4553
+current pos for id 4578
+3258974208 - Battle_UI_Targeting_Meter LENGTH 25
+current stream pos 4582
+stream pos for len 4582
+0
+stream pos for len 4586
+18
+stream pos for string 4590
+current pos for id 4608
+0 - Battle_Unit_Morale LENGTH 18
+current stream pos 4612
+stream pos for len 4612
+1120403456
+stream pos for subdata id 4612
+sub data id 1120403456
+stream pos for len 4616
+19
+stream pos for string 4620
+current pos for id 4639
+0 - Battle_Unit_Winning LENGTH 19
+current stream pos 4643
+stream pos for len 4643
+1090519040
+stream pos for subdata id 4643
+sub data id 1090519040
+stream pos for len 4647
+30
+stream pos for string 4651
+current pos for id 4681
+0 - Battle_Units_In_Combat_Percent LENGTH 30
+current stream pos 4685
+stream pos for len 4685
+1120403456
+stream pos for subdata id 4685
+sub data id 1120403456
+stream pos for len 4689
+21
+stream pos for string 4693
+current pos for id 4714
+0 - Battle_Units_In_Melee LENGTH 21
+current stream pos 4718
+stream pos for len 4718
+1109393408
+stream pos for subdata id 4718
+sub data id 1109393408
+stream pos for len 4722
+23
+stream pos for string 4726
+current pos for id 4749
+0 - Battle_VO_Position_Type LENGTH 23
+current stream pos 4753
+stream pos for len 4753
+1065353216
+stream pos for subdata id 4753
+sub data id 1065353216
+stream pos for len 4757
+32
+stream pos for string 4761
+current pos for id 4793
+3298164736 - Battle_Vocalisation_Random_Pitch LENGTH 32
+current stream pos 4797
+stream pos for len 4797
+1150681088
+stream pos for subdata id 4797
+sub data id 1150681088
+stream pos for len 4801
+33
+stream pos for string 4805
+current pos for id 4838
+0 - Battle_Vocalisation_Scream_Active LENGTH 33
+current stream pos 4842
+stream pos for len 4842
+1065353216
+stream pos for subdata id 4842
+sub data id 1065353216
+stream pos for len 4846
+21
+stream pos for string 4850
+current pos for id 4871
+0 - Battle_Voice_Priority LENGTH 21
+current stream pos 4875
+stream pos for len 4875
+1065353216
+stream pos for subdata id 4875
+sub data id 1065353216
+stream pos for len 4879
+24
+stream pos for string 4883
+current pos for id 4907
+0 - Battle_War_Machine_Speed LENGTH 24
+current stream pos 4911
+stream pos for len 4911
+1090519040
+stream pos for subdata id 4911
+sub data id 1090519040
+stream pos for len 4915
+21
+stream pos for string 4919
+current pos for id 4940
+0 - Battle_Wind_Intensity LENGTH 21
+current stream pos 4944
+stream pos for len 4944
+1125515264
+stream pos for subdata id 4944
+sub data id 1125515264
+stream pos for len 4948
+23
+stream pos for string 4952
+current pos for id 4975
+0 - Battle_Wind_Obstruction LENGTH 23
+current stream pos 4979
+stream pos for len 4979
+1065353216
+stream pos for subdata id 4979
+sub data id 1065353216
+stream pos for len 4983
+17
+stream pos for string 4987
+current pos for id 5004
+0 - Battle_Wind_Trees LENGTH 17
+current stream pos 5008
+stream pos for len 5008
+1120403456
+stream pos for subdata id 5008
+sub data id 1120403456
+stream pos for len 5012
+17
+stream pos for string 5016
+current pos for id 5033
+0 - Bus_Volume_Advice LENGTH 17
+current stream pos 5037
+stream pos for len 5037
+1120403456
+stream pos for subdata id 5037
+sub data id 1120403456
+stream pos for len 5041
+17
+stream pos for string 5045
+current pos for id 5062
+0 - Bus_Volume_Master LENGTH 17
+current stream pos 5066
+stream pos for len 5066
+1120403456
+stream pos for subdata id 5066
+sub data id 1120403456
+stream pos for len 5070
+16
+stream pos for string 5074
+current pos for id 5090
+0 - Bus_Volume_Movie LENGTH 16
+current stream pos 5094
+stream pos for len 5094
+1120403456
+stream pos for subdata id 5094
+sub data id 1120403456
+stream pos for len 5098
+16
+stream pos for string 5102
+current pos for id 5118
+0 - Bus_Volume_Music LENGTH 16
+current stream pos 5122
+stream pos for len 5122
+1120403456
+stream pos for subdata id 5122
+sub data id 1120403456
+stream pos for len 5126
+14
+stream pos for string 5130
+current pos for id 5144
+0 - Bus_Volume_SFX LENGTH 14
+current stream pos 5148
+stream pos for len 5148
+1120403456
+stream pos for subdata id 5148
+sub data id 1120403456
+stream pos for len 5152
+13
+stream pos for string 5156
+current pos for id 5169
+0 - Bus_Volume_UI LENGTH 13
+current stream pos 5173
+stream pos for len 5173
+1120403456
+stream pos for subdata id 5173
+sub data id 1120403456
+stream pos for len 5177
+13
+stream pos for string 5181
+current pos for id 5194
+0 - Bus_Volume_VO LENGTH 13
+current stream pos 5198
+stream pos for len 5198
+1120403456
+stream pos for subdata id 5198
+sub data id 1120403456
+stream pos for len 5202
+21
+stream pos for string 5206
+current pos for id 5227
+0 - Bus_Volume_Voice_Chat LENGTH 21
+current stream pos 5231
+stream pos for len 5231
+1120403456
+stream pos for subdata id 5231
+sub data id 1120403456
+stream pos for len 5235
+22
+stream pos for string 5239
+current pos for id 5261
+3258974208 - Campaign_Accept_Ducker LENGTH 22
+current stream pos 5265
+stream pos for len 5265
+0
+stream pos for len 5269
+22
+stream pos for string 5273
+current pos for id 5295
+3258974208 - Campaign_Actions_Meter LENGTH 22
+current stream pos 5299
+stream pos for len 5299
+0
+stream pos for len 5303
+24
+stream pos for string 5307
+current pos for id 5331
+0 - Campaign_Chaos_Intensity LENGTH 24
+current stream pos 5335
+stream pos for len 5335
+1065353216
+stream pos for subdata id 5335
+sub data id 1065353216
+stream pos for len 5339
+30
+stream pos for string 5343
+current pos for id 5373
+0 - Campaign_Chaos_Realm_Intensity LENGTH 30
+current stream pos 5377
+stream pos for len 5377
+1065353216
+stream pos for subdata id 5377
+sub data id 1065353216
+stream pos for len 5381
+29
+stream pos for string 5385
+current pos for id 5414
+0 - Campaign_Dark_Elves_Intensity LENGTH 29
+current stream pos 5418
+stream pos for len 5418
+1065353216
+stream pos for subdata id 5418
+sub data id 1065353216
+stream pos for len 5422
+28
+stream pos for string 5426
+current pos for id 5454
+0 - Campaign_Darklands_Intensity LENGTH 28
+current stream pos 5458
+stream pos for len 5458
+1065353216
+stream pos for subdata id 5458
+sub data id 1065353216
+stream pos for len 5462
+25
+stream pos for string 5466
+current pos for id 5491
+0 - Campaign_Desert_Intensity LENGTH 25
+current stream pos 5495
+stream pos for len 5495
+1065353216
+stream pos for subdata id 5495
+sub data id 1065353216
+stream pos for len 5499
+39
+stream pos for string 5503
+current pos for id 5542
+3267887104 - Campaign_Diplomacy_Faction_Relationship LENGTH 39
+current stream pos 5546
+stream pos for len 5546
+1120403456
+stream pos for subdata id 5546
+sub data id 1120403456
+stream pos for len 5550
+16
+stream pos for string 5554
+current pos for id 5570
+1063675494 - Campaign_Doppler LENGTH 16
+current stream pos 5574
+stream pos for len 5574
+1066192077
+stream pos for subdata id 5574
+sub data id 1066192077
+stream pos for len 5578
+23
+stream pos for string 5582
+current pos for id 5605
+3258974208 - Campaign_Footstep_Meter LENGTH 23
+current stream pos 5609
+stream pos for len 5609
+0
+stream pos for len 5613
+26
+stream pos for string 5617
+current pos for id 5643
+1065353216 - Campaign_Forest_Tree_Count LENGTH 26
+current stream pos 5647
+stream pos for len 5647
+1140457472
+stream pos for subdata id 5647
+sub data id 1140457472
+stream pos for len 5651
+28
+stream pos for string 5655
+current pos for id 5683
+3264217088 - Campaign_Mountain_Wind_Meter LENGTH 28
+current stream pos 5687
+stream pos for len 5687
+0
+stream pos for len 5691
+31
+stream pos for string 5695
+current pos for id 5726
+0 - Campaign_Music_Chaos_Corruption LENGTH 31
+current stream pos 5730
+stream pos for len 5730
+1084227584
+stream pos for subdata id 5730
+sub data id 1084227584
+stream pos for len 5734
+20
+stream pos for string 5738
+current pos for id 5758
+3265003520 - Campaign_Music_Meter LENGTH 20
+current stream pos 5762
+stream pos for len 5762
+0
+stream pos for len 5766
+14
+stream pos for string 5770
+current pos for id 5784
+0 - Campaign_Night LENGTH 14
+current stream pos 5788
+stream pos for len 5788
+1065353216
+stream pos for subdata id 5788
+sub data id 1065353216
+stream pos for len 5792
+30
+stream pos for string 5796
+current pos for id 5826
+3258974208 - Campaign_Post_Battle_UI_Ducker LENGTH 30
+current stream pos 5830
+stream pos for len 5830
+0
+stream pos for len 5834
+27
+stream pos for string 5838
+current pos for id 5865
+3258974208 - Campaign_Post_Battle_Volume LENGTH 27
+current stream pos 5869
+stream pos for len 5869
+0
+stream pos for len 5873
+25
+stream pos for string 5877
+current pos for id 5902
+0 - Campaign_Pre_Battle_Popup LENGTH 25
+current stream pos 5906
+stream pos for len 5906
+1065353216
+stream pos for subdata id 5906
+sub data id 1065353216
+stream pos for len 5910
+19
+stream pos for string 5914
+current pos for id 5933
+3258974208 - Campaign_Prop_Meter LENGTH 19
+current stream pos 5937
+stream pos for len 5937
+0
+stream pos for len 5941
+18
+stream pos for string 5945
+current pos for id 5963
+3265003520 - Campaign_SFX_Meter LENGTH 18
+current stream pos 5967
+stream pos for len 5967
+0
+stream pos for len 5971
+20
+stream pos for string 5975
+current pos for id 5995
+3264217088 - Campaign_Sea_Ducking LENGTH 20
+current stream pos 5999
+stream pos for len 5999
+0
+stream pos for len 6003
+22
+stream pos for string 6007
+current pos for id 6029
+0 - Campaign_Sea_Intensity LENGTH 22
+current stream pos 6033
+stream pos for len 6033
+1065353216
+stream pos for subdata id 6033
+sub data id 1065353216
+stream pos for len 6037
+27
+stream pos for string 6041
+current pos for id 6068
+3258974208 - Campaign_Settlement_Ducking LENGTH 27
+current stream pos 6072
+stream pos for len 6072
+0
+stream pos for len 6076
+22
+stream pos for string 6080
+current pos for id 6102
+3258974208 - Campaign_Ships_Ducking LENGTH 22
+current stream pos 6106
+stream pos for len 6106
+0
+stream pos for len 6110
+25
+stream pos for string 6114
+current pos for id 6139
+0 - Campaign_Shroud_Intensity LENGTH 25
+current stream pos 6143
+stream pos for len 6143
+1065353216
+stream pos for subdata id 6143
+sub data id 1065353216
+stream pos for len 6147
+25
+stream pos for string 6151
+current pos for id 6176
+0 - Campaign_Tundra_Intensity LENGTH 25
+current stream pos 6180
+stream pos for len 6180
+1065353216
+stream pos for subdata id 6180
+sub data id 1065353216
+stream pos for len 6184
+28
+stream pos for string 6188
+current pos for id 6216
+0 - Campaign_Unit_Movement_Speed LENGTH 28
+current stream pos 6220
+stream pos for len 6220
+1090519040
+stream pos for subdata id 6220
+sub data id 1090519040
+stream pos for len 6224
+27
+stream pos for string 6228
+current pos for id 6255
+3258974208 - Campaign_Vocalisation_Meter LENGTH 27
+current stream pos 6259
+stream pos for len 6259
+0
+stream pos for len 6263
+21
+stream pos for string 6267
+current pos for id 6288
+3264217088 - Campaign_Vortex_Meter LENGTH 21
+current stream pos 6292
+stream pos for len 6292
+0
+stream pos for len 6296
+32
+stream pos for string 6300
+current pos for id 6332
+0 - Campaign_Vortex_Volume_Exclusion LENGTH 32
+current stream pos 6336
+stream pos for len 6336
+1065353216
+stream pos for subdata id 6336
+sub data id 1065353216
+stream pos for len 6340
+24
+stream pos for string 6344
+current pos for id 6368
+3264217088 - Campaign_Warp_Hole_Meter LENGTH 24
+current stream pos 6372
+stream pos for len 6372
+0
+stream pos for len 6376
+25
+stream pos for string 6380
+current pos for id 6405
+0 - Campaign_Warp_Hole_Volume LENGTH 25
+current stream pos 6409
+stream pos for len 6409
+1065353216
+stream pos for subdata id 6409
+sub data id 1065353216
+stream pos for len 6413
+35
+stream pos for string 6417
+current pos for id 6452
+0 - Campaign_Warp_Hole_Volume_Exclusion LENGTH 35
+current stream pos 6456
+stream pos for len 6456
+1065353216
+stream pos for subdata id 6456
+sub data id 1065353216
+stream pos for len 6460
+18
+stream pos for string 6464
+current pos for id 6482
+0 - Campaign_Wind_Cold LENGTH 18
+current stream pos 6486
+stream pos for len 6486
+1065353216
+stream pos for subdata id 6486
+sub data id 1065353216
+stream pos for len 6490
+27
+stream pos for string 6494
+current pos for id 6521
+3258974208 - Campaign_Wind_Storm_Ducking LENGTH 27
+current stream pos 6525
+stream pos for len 6525
+0
+stream pos for len 6529
+18
+stream pos for string 6533
+current pos for id 6551
+3258974208 - Event_POPUP_Volume LENGTH 18
+current stream pos 6555
+stream pos for len 6555
+0
+stream pos for len 6559
+19
+stream pos for string 6563
+current pos for id 6582
+3264217088 - FE_Portraits_Ducker LENGTH 19
+current stream pos 6586
+stream pos for len 6586
+0
+stream pos for len 6590
+20
+stream pos for string 6594
+current pos for id 6614
+3258974208 - FrontEnd_Music_Meter LENGTH 20
+current stream pos 6618
+stream pos for len 6618
+0
+stream pos for len 6622
+15
+stream pos for string 6626
+current pos for id 6641
+3274964992 - Generic_Azimuth LENGTH 15
+current stream pos 6645
+stream pos for len 6645
+1127481344
+stream pos for subdata id 6645
+sub data id 1127481344
+stream pos for len 6649
+20
+stream pos for string 6653
+current pos for id 6673
+3274964992 - Generic_Azimuth_Slew LENGTH 20
+current stream pos 6677
+stream pos for len 6677
+1127481344
+stream pos for subdata id 6677
+sub data id 1127481344
+stream pos for len 6681
+20
+stream pos for string 6685
+current pos for id 6705
+0 - Generic_Camera_Angle LENGTH 20
+current stream pos 6709
+stream pos for len 6709
+1127481344
+stream pos for subdata id 6709
+sub data id 1127481344
+stream pos for len 6713
+21
+stream pos for string 6717
+current pos for id 6738
+0 - Generic_Camera_Height LENGTH 21
+current stream pos 6742
+stream pos for len 6742
+1120403456
+stream pos for subdata id 6742
+sub data id 1120403456
+stream pos for len 6746
+20
+stream pos for string 6750
+current pos for id 6770
+0 - Generic_Camera_Speed LENGTH 20
+current stream pos 6774
+stream pos for len 6774
+1128792064
+stream pos for subdata id 6774
+sub data id 1128792064
+stream pos for len 6778
+20
+stream pos for string 6782
+current pos for id 6802
+0 - Generic_Cursor_Speed LENGTH 20
+current stream pos 6806
+stream pos for len 6806
+1137180672
+stream pos for subdata id 6806
+sub data id 1137180672
+stream pos for len 6810
+20
+stream pos for string 6814
+current pos for id 6834
+0 - Generic_Distance_100 LENGTH 20
+current stream pos 6838
+stream pos for len 6838
+1120403456
+stream pos for subdata id 6838
+sub data id 1120403456
+stream pos for len 6842
+21
+stream pos for string 6846
+current pos for id 6867
+0 - Generic_Distance_1000 LENGTH 21
+current stream pos 6871
+stream pos for len 6871
+1148846080
+stream pos for subdata id 6871
+sub data id 1148846080
+stream pos for len 6875
+20
+stream pos for string 6879
+current pos for id 6899
+0 - Generic_Distance_200 LENGTH 20
+current stream pos 6903
+stream pos for len 6903
+1128792064
+stream pos for subdata id 6903
+sub data id 1128792064
+stream pos for len 6907
+19
+stream pos for string 6911
+current pos for id 6930
+0 - Generic_Distance_25 LENGTH 19
+current stream pos 6934
+stream pos for len 6934
+1103626240
+stream pos for subdata id 6934
+sub data id 1103626240
+stream pos for len 6938
+20
+stream pos for string 6942
+current pos for id 6962
+0 - Generic_Distance_250 LENGTH 20
+current stream pos 6966
+stream pos for len 6966
+1132068864
+stream pos for subdata id 6966
+sub data id 1132068864
+stream pos for len 6970
+21
+stream pos for string 6974
+current pos for id 6995
+0 - Generic_Distance_4000 LENGTH 21
+current stream pos 6999
+stream pos for len 6999
+1165623296
+stream pos for subdata id 6999
+sub data id 1165623296
+stream pos for len 7003
+19
+stream pos for string 7007
+current pos for id 7026
+0 - Generic_Distance_50 LENGTH 19
+current stream pos 7030
+stream pos for len 7030
+1112014848
+stream pos for subdata id 7030
+sub data id 1112014848
+stream pos for len 7034
+20
+stream pos for string 7038
+current pos for id 7058
+0 - Generic_Distance_500 LENGTH 20
+current stream pos 7062
+stream pos for len 7062
+1140457472
+stream pos for subdata id 7062
+sub data id 1140457472
+stream pos for len 7066
+23
+stream pos for string 7070
+current pos for id 7093
+0 - Generic_Dynamic_Balance LENGTH 23
+current stream pos 7097
+stream pos for len 7097
+1065353216
+stream pos for subdata id 7097
+sub data id 1065353216
+stream pos for len 7101
+17
+stream pos for string 7105
+current pos for id 7122
+3266576384 - Generic_Elevation LENGTH 17
+current stream pos 7126
+stream pos for len 7126
+1119092736
+stream pos for subdata id 7126
+sub data id 1119092736
+stream pos for len 7130
+22
+stream pos for string 7134
+current pos for id 7156
+0 - Generic_Fire_Intensity LENGTH 22
+current stream pos 7160
+stream pos for len 7160
+1120403456
+stream pos for subdata id 7160
+sub data id 1120403456
+stream pos for len 7164
+25
+stream pos for string 7168
+current pos for id 7193
+0 - Generic_Forest_Percentage LENGTH 25
+current stream pos 7197
+stream pos for len 7197
+1120403456
+stream pos for subdata id 7197
+sub data id 1120403456
+stream pos for len 7201
+26
+stream pos for string 7205
+current pos for id 7231
+3212836864 - Generic_Panning_Front_Back LENGTH 26
+current stream pos 7235
+stream pos for len 7235
+1065353216
+stream pos for subdata id 7235
+sub data id 1065353216
+stream pos for len 7239
+26
+stream pos for string 7243
+current pos for id 7269
+3212836864 - Generic_Panning_Left_Right LENGTH 26
+current stream pos 7273
+stream pos for len 7273
+1065353216
+stream pos for subdata id 7273
+sub data id 1065353216
+stream pos for len 7277
+35
+stream pos for string 7281
+current pos for id 7316
+0 - Generic_UI_Lab_Slider_Scale_Average LENGTH 35
+current stream pos 7320
+stream pos for len 7320
+1065353216
+stream pos for subdata id 7320
+sub data id 1065353216
+stream pos for len 7324
+23
+stream pos for string 7328
+current pos for id 7351
+0 - Generic_UI_Slider_Scale LENGTH 23
+current stream pos 7355
+stream pos for len 7355
+1065353216
+stream pos for subdata id 7355
+sub data id 1065353216
+stream pos for len 7359
+24
+stream pos for string 7363
+current pos for id 7387
+0 - Generic_Urban_Percentage LENGTH 24
+current stream pos 7391
+stream pos for len 7391
+1120403456
+stream pos for subdata id 7391
+sub data id 1120403456
+stream pos for len 7395
+17
+stream pos for string 7399
+current pos for id 7416
+0 - Generic_VFX_Scale LENGTH 17
+current stream pos 7420
+stream pos for len 7420
+1092616192
+stream pos for subdata id 7420
+sub data id 1092616192
+stream pos for len 7424
+24
+stream pos for string 7428
+current pos for id 7452
+0 - Generic_Water_Percentage LENGTH 24
+current stream pos 7456
+stream pos for len 7456
+1120403456
+stream pos for subdata id 7456
+sub data id 1120403456
+stream pos for len 7460
+18
+stream pos for string 7464
+current pos for id 7482
+0 - Generic_Wight_King LENGTH 18
+current stream pos 7486
+stream pos for len 7486
+1120403456
+stream pos for subdata id 7486
+sub data id 1120403456
+stream pos for len 7490
+32
+stream pos for string 7494
+current pos for id 7526
+0 - Generic_entity_vocalisation_type LENGTH 32
+current stream pos 7530
+stream pos for len 7530
+1086324736
+stream pos for subdata id 7530
+sub data id 1086324736
+stream pos for len 7534
+22
+stream pos for string 7538
+current pos for id 7560
+3258974208 - LH_Battle_Order_Ducker LENGTH 22
+current stream pos 7564
+stream pos for len 7564
+0
+stream pos for len 7568
+21
+stream pos for string 7572
+current pos for id 7593
+3258974208 - Music_Freq_Meter_High LENGTH 21
+current stream pos 7597
+stream pos for len 7597
+0
+stream pos for len 7601
+20
+stream pos for string 7605
+current pos for id 7625
+3258974208 - Music_Freq_Meter_Low LENGTH 20
+current stream pos 7629
+stream pos for len 7629
+0
+stream pos for len 7633
+20
+stream pos for string 7637
+current pos for id 7657
+3258974208 - Music_Freq_Meter_Mid LENGTH 20
+current stream pos 7661
+stream pos for len 7661
+0
+stream pos for len 7665
+25
+stream pos for string 7669
+current pos for id 7694
+3258974208 - Music_Freq_Meter_Mid_High LENGTH 25
+current stream pos 7698
+stream pos for len 7698
+0
+stream pos for len 7702
+19
+stream pos for string 7706
+current pos for id 7725
+3258974208 - Sfx_Freq_Meter_High LENGTH 19
+current stream pos 7729
+stream pos for len 7729
+0
+stream pos for len 7733
+18
+stream pos for string 7737
+current pos for id 7755
+3258974208 - Sfx_Freq_Meter_Low LENGTH 18
+current stream pos 7759
+stream pos for len 7759
+0
+stream pos for len 7763
+18
+stream pos for string 7767
+current pos for id 7785
+3258974208 - Sfx_Freq_Meter_Mid LENGTH 18
+current stream pos 7789
+stream pos for len 7789
+0
+stream pos for len 7793
+23
+stream pos for string 7797
+current pos for id 7820
+3258974208 - Sfx_Freq_Meter_Mid_High LENGTH 23
+current stream pos 7824
+stream pos for len 7824
+0
+stream pos for len 7828
+16
+stream pos for string 7832
+current pos for id 7848
+3258974208 - UI_Battle_Ducker LENGTH 16
+current stream pos 7852
+stream pos for len 7852
+0
+stream pos for len 7856
+18
+stream pos for string 7860
+current pos for id 7878
+3258974208 - UI_Campaign_Ducker LENGTH 18
+current stream pos 7882
+stream pos for len 7882
+0
+stream pos for len 7886
+18
+stream pos for string 7890
+current pos for id 7908
+3258974208 - UI_Frontend_Ducker LENGTH 18
+current stream pos 7912
+stream pos for len 7912
+0
+stream pos for len 7916
+16
+stream pos for string 7920
+current pos for id 7936
+3258974208 - UI_Global_Ducker LENGTH 16
+current stream pos 7940
+stream pos for len 7940
+0
+stream pos for len 7944
+15
+stream pos for string 7948
+current pos for id 7963
+3258974208 - UI_Meter_Ducker LENGTH 15
+current stream pos 7967
+stream pos for len 7967
+0
+stream pos for len 7971
+23
+stream pos for string 7975
+current pos for id 7998
+3258974208 - VO_Advisor_Meter_Ducker LENGTH 23
+current stream pos 8002
+stream pos for len 8002
+0
+stream pos for len 8006
+34
+stream pos for string 8010
+current pos for id 8044
+3258974208 - VO_Campaign_Character_Meter_Ducker LENGTH 34
+current stream pos 8048
+stream pos for len 8048
+0
+stream pos for len 8052
+24
+stream pos for string 8056
+current pos for id 8080
+3258974208 - VO_Frontend_Meter_Ducker LENGTH 24
+current stream pos 8084
+stream pos for len 8088
+33
+stream pos for string 8092
+current pos for id 8125
+1953784130 -    Battle_Late_Reflections_1    LENGTH 33
+current stream pos 8129
+stream pos for len 8133
+1600484449
+stream pos for subdata id 8133
+sub data id 1600484449
+stream pos for len 8137
+1818649938
+stream pos for subdata id 8137
+sub data id 1818649938
+stream pos for len 8141
+1769235301
+stream pos for subdata id 8141
+sub data id 1769235301
+stream pos for len 8145
+1601400431
+stream pos for subdata id 8145
+sub data id 1601400431
+stream pos for len 8149
+5938
+stream pos for string 8153
