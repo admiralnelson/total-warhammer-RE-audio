@@ -1,0 +1,45 @@
+//------------------------------------------------
+//--- 010 Editor v10.0.2 Binary Template
+//
+//      File: 
+//   Authors: 
+//   Version: 
+//   Purpose: 
+//  Category: 
+// File Mask: 
+//  ID Bytes: 
+//   History: 
+//------------------------------------------------
+struct PascalString
+{
+   unsigned int length <bgcolor=0xAAAABB>;
+   char data[length] <optimize=false, bgcolor=0x0000FF>;
+};
+
+struct Data
+{
+   PascalString pstring;
+   unsigned int flag1 <bgcolor=0x00AABB>;
+   unsigned int flag2 <bgcolor=0x0000AA>;
+};
+
+struct Object
+{
+    unsigned int total;
+    Data data[total] <optimize=false>;
+};
+
+struct Object2
+{
+    unsigned int total;
+    PascalString pstring[total] <optimize=false>;
+};
+
+
+
+
+while (!FEof()) 
+{
+    Object obj;
+    Object2 obj2;
+}

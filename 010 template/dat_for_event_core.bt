@@ -1,0 +1,95 @@
+//------------------------------------------------
+//--- 010 Editor v10.0.2 Binary Template
+//
+//      File: data_for_event_core.bt
+//   Authors: admiralnelson
+//   Version: 0.0.0
+//   Purpose: to parse total warhammer 2 .dat file (extracted from audio.pack)
+//  Category: metadata
+// File Mask: 
+//  ID Bytes: 
+//   History: 
+//------------------------------------------------
+
+/*basic shit */
+struct PascalString
+{
+   unsigned int length <bgcolor=0xAAAABB>;
+   char data[length] <optimize=false, bgcolor=0x0000FF>;
+};
+/*basic shit ends */
+
+struct Data
+{
+   PascalString name;
+   unsigned int id <bgcolor=0x00AABB>;
+};
+
+struct Object
+{
+    unsigned int total;
+    Data data[total] <optimize=false>;
+};
+
+struct State
+{
+   unsigned int total <bgcolor=0x00AA00>; 
+   PascalString state_name[total] <optimize=false>;
+
+};
+
+struct StateGroup
+{
+    PascalString group_name;
+    State state <optimize=false>;
+};
+
+struct Object2
+{
+    unsigned int total;
+    StateGroup stateGroups[total] <optimize=false>;
+};
+
+struct StateGroupWithIds
+{
+    PascalString name;
+    unsigned int total;
+    unsigned int ids[total] <optimize=false>;
+};
+
+struct Object3
+{
+    unsigned int total;
+    StateGroupWithIds stateGroups[total] <optimize=false>;
+};
+
+struct StateGroupWithId
+{
+    PascalString name;
+    unsigned int total;
+    unsigned int ids ;
+};
+
+struct Object4
+{
+    unsigned int total;
+    StateGroupWithId stateGroups[total] <optimize=false>;
+};
+
+struct Object5
+{
+    unsigned int total;
+    PascalString names[total] <optimize=false>;
+
+};
+
+
+while (!FEof()) 
+{
+    Object obj1;   
+    Object2 obj2;
+    Object2 obj3;    
+    Object3 obj4;  
+    Object4 obj5;
+    Object5 obj6;
+}

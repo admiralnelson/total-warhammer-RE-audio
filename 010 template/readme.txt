@@ -1,0 +1,1 @@
+to use .bt, simply open the .dat file in 010 IDE and load the template to see and explore the file hiearchy 

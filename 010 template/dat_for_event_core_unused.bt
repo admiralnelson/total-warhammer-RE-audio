@@ -1,0 +1,80 @@
+//------------------------------------------------
+//--- 010 Editor v10.0.2 Binary Template
+//
+//      File: 
+//   Authors: 
+//   Version: 
+//   Purpose: 
+//  Category: 
+// File Mask: 
+//  ID Bytes: 
+//   History: 
+//------------------------------------------------
+
+/*basic shit */
+struct PascalString
+{
+   unsigned int length <bgcolor=0xAAAABB>;
+   char data[length] <optimize=false, bgcolor=0x0000FF>;
+};
+/*basic shit ends */
+
+struct Data
+{
+   PascalString name;
+   unsigned int id <bgcolor=0x00AABB>;
+};
+
+struct Object
+{
+    unsigned int total;
+    Data data[total] <optimize=false>;
+};
+
+struct State
+{
+   unsigned int total <bgcolor=0x00AA00>; 
+   PascalString state_name[total] <optimize=false>;
+
+};
+
+struct StateGroup
+{
+    PascalString group_name;
+    State state <optimize=false>;
+};
+
+struct Object2
+{
+    unsigned int total;
+    StateGroup stateGroups[total] <optimize=false>;
+};
+
+
+struct Tag
+{
+    unsigned int total_tag;
+    PascalString tag_name[total_tag] <optimize=false>;
+};
+
+struct TagCollection
+{
+    PascalString tag_collection_name;
+    Tag tags <optimize=false>;
+};
+
+struct Object3
+{
+    unsigned int total;
+    TagCollection tagCollections[total] <optimize=false>;
+};
+
+
+
+
+while (!FEof()) 
+{
+    Object obj;   
+    Object2 obj2;
+    Object2 obj3;    
+}
