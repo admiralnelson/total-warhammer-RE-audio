@@ -96,37 +96,31 @@ def extractDat(params):
                     zeroFlagDetected = False
                     state = READ_TEXT
                 if state == READ_TEXT:
+                    count += 1
                     pdebug("stream pos for len", file.tell())
                     lengthStr = int(unpack("<I", file.read(4))[0]) 
-                    print(lengthStr) #could be possibly an ID!
-                    if lengthStr > 1000:
+                    print(lengthStr)
+                    if lengthStr > 10000:
                         #this doesn make sense NOTE-ID: 0001
                         file.seek(-4, 1)
                         state = READ_SUB_DATA_IDS
                         continue
-                    #this doesnt make sense NOTE-ID: 0002
                     if lengthStr == 0:
                         zeroFlagDetected  = True
-                        #lengthStr = int(unpack("<I", file.read(4))[0]) 
+                        continue
+                        #this doesnt make sense NOTE-ID: 0002
                     pdebug("stream pos for string", file.tell())
                     title = unpack('{}s'.format(lengthStr), file.read(lengthStr))[0].decode("ascii")
                     pdebug("current pos for id", file.tell())
                     id = int(unpack("<I", file.read(4))[0])
                     if title != "" : 
-                        count += 1
                         titles.append(title)
                         print(id, "-", title, "LENGTH", lengthStr)
                     pdebug("current stream pos", file.tell())
                     #check for subdata
                     if count >= totalString:
                         state = READ_TOTAL_STRING
-                        # TODO: INVESTIGATE 
-                        if zeroFlagDetected:
-                            int(unpack("<I", file.read(4))[0])
-                            subDataLength = int(unpack("<I", file.read(4))[0])  # chomp 4 bytes?
-                            state = READ_SUB_DATA
-                        continue
-                        #read sub data id guess?
+                        #read sub data id guss?
                     if id < 10000 and id != 0:
                         pdebug("ËNTERING SUB DATA")
                         state = READ_SUB_DATA
@@ -194,6 +188,5 @@ if (len(sys.argv) > 1 ): extract(sys.argv)
 #else: extractDat([ "", "event_data__bretonnia_owners.dat"])
 #else: extractDat([ "", "event_data__grand_campaign_owners.dat"])
 #else: extractDat([ "", "event_data__blood_pack_owners.dat"])
-#else: extractDat([ "", "test_subject.dat"])
-else: extractDat([ "", "event_data__core.dat"])
-#else: extractDat([ "", "test_subject_2.dat"])
+else: extractDat([ "", "test_subject.dat"])
+#else: extractDat([ "", "event_data__core.dat"])
